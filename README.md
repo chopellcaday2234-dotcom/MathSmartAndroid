@@ -7,10 +7,10 @@ MathSmart is a native Android/Java practice app inspired by the supplied Math Ge
 ## App Screenshots
 
 ### Home Screen
-![MathSmart home screen](Pasted%20Image.png)
+![MathSmart home screen](screenshots/mathsmart-home.png)
 
 ### Arithmetic Quiz Screen
-![MathSmart arithmetic quiz screen](Pasted%20Image%202.png)
+![MathSmart arithmetic quiz screen](screenshots/mathsmart-quiz.png)
 
 ## Reference-aligned flow
 - Main menu: Start, Settings, History
