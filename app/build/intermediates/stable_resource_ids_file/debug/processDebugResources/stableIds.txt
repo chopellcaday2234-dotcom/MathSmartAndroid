@@ -1,0 +1,5 @@
+com.mathsmart.app:string/app_name = 0x7f040000
+com.mathsmart.app:drawable/ic_launcher = 0x7f020000
+com.mathsmart.app:style/Theme.MathSmart = 0x7f050000
+com.mathsmart.app:mipmap/ic_launcher = 0x7f030000
+com.mathsmart.app:color/launcher_bg = 0x7f010000

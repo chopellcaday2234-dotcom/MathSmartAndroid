@@ -1,0 +1,7 @@
+#Thu Oct 01 15:49:59 GMT+08:00 2026
+base.0=D\:\\MathSmartAndroid_Final\\MathSmartAndroid\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=D\:\\MathSmartAndroid_Final\\MathSmartAndroid\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
+path.0=0/classes.dex
+path.1=8/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

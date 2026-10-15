@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mathsmart.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\MathSmartAndroid_Final\\MathSmartAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "46",
+                        "endOffsets": "58"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "101",
+                        "endColumns": "46",
+                        "endOffsets": "143"
+                    }
+                },
+                {
+                    "source": "D:\\MathSmartAndroid_Final\\MathSmartAndroid\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "45",
+                        "endOffsets": "57"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                },
+                {
+                    "source": "D:\\MathSmartAndroid_Final\\MathSmartAndroid\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "538"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "148",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "670"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+com.mathsmart.app-pngs-0 D:\MathSmartAndroid_Final\MathSmartAndroid\app\build\generated\res\pngs\debug
+com.mathsmart.app-resValues-1 D:\MathSmartAndroid_Final\MathSmartAndroid\app\build\generated\res\resValues\debug
+com.mathsmart.app-packageDebugResources-2 D:\MathSmartAndroid_Final\MathSmartAndroid\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.mathsmart.app-packageDebugResources-3 D:\MathSmartAndroid_Final\MathSmartAndroid\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.mathsmart.app-debug-4 D:\MathSmartAndroid_Final\MathSmartAndroid\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.mathsmart.app-debug-5 D:\MathSmartAndroid_Final\MathSmartAndroid\app\src\debug\res
+com.mathsmart.app-main-6 D:\MathSmartAndroid_Final\MathSmartAndroid\app\src\main\res
