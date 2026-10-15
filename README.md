@@ -4,6 +4,14 @@ MathSmart is a native Android/Java practice app inspired by the supplied Math Ge
 
 **MathSmart: Enhancing Mathematical Skills Development of Students in Bestlink College of the Philippines**
 
+## App Screenshots
+
+### Home Screen
+![MathSmart home screen](Pasted%20Image.png)
+
+### Arithmetic Quiz Screen
+![MathSmart arithmetic quiz screen](Pasted%20Image%202.png)
+
 ## Reference-aligned flow
 - Main menu: Start, Settings, History
 - Timed arithmetic quiz
